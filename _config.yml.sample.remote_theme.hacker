@@ -12,15 +12,15 @@
 plugins:
   - jekyll-remote-theme
 
-#remote_theme: pages-themes/hacker
+# (X) theme: hacker 
+ remote_theme: pages-themes/hacker
 
 ####################
 # theme: theme-name 
 #    ex: cayman, minima, kacker, jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-merlot, ..
 ####################
-# (X) theme: hacker 
 # theme: minima
-  theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 
 ####################
 # ETC
