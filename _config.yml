@@ -12,7 +12,8 @@
 # markdown: kramdown
 
 ####################
-# theme: jekyll-theme-minimal  # 테마 이름 (예: minima, jekyll-theme-slate, jekyll-theme-merlot 등)
+# theme: theme-name 
+#    ex: cayman, minima, kacker, jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-merlot, ..
 ####################
 # theme: jekyll-theme-minimal
 # theme: minima
@@ -21,5 +22,5 @@
 ####################
 # theme: minima
 ####################
-# author: okseop7 @ gmail.com
+  author: okseop7 @ gmail.com
 
