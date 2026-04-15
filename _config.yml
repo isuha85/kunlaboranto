@@ -10,7 +10,7 @@
   url: "https://isuha85.github.io"
 
 # [TODO-OKT-00] "description:" 다음에 위치해야 빌드가 성공함
-# author: okseop7
+  author: okseop7
 
 # markdown: kramdown
   theme: minima
