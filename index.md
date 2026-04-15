@@ -1,5 +1,20 @@
 ---
 layout: default
+title: index.md
+permalink: /list/
 ---
-# 안녕하세요!
-여기는 Kunlaboranto의 블로그입니다.
+
+<!-- 여기는 Kunlaboranto의 블로그입니다. -->
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>

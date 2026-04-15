@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Blog Posts
+title: list.md
 permalink: /list/
 ---
-
-## 모든 글 목록
 
 <ul>
   {% for post in site.posts %}
