@@ -1,5 +1,6 @@
 ---
 layout: post
+title: test-layout-post.md
 ---
 
 # 안녕하세요!
