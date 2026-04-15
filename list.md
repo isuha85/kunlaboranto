@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: list.md
 permalink: /list/
 ---
