@@ -31,9 +31,23 @@
 ####################
   author: okseop7 @ gmail.com
 
+  exclude:
+    - README.md
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - private/
+    - docs/
+
 
 ####################
 # NOTYET
 ####################
 # markdown: kramdown
+
+
+title: My Blog
+description: GitHub Pages 블로그
+theme: minima
+
 
