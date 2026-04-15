@@ -1,7 +1,6 @@
 ---
 layout: home
-title: test-layout-home.md
+title: "블로그 홈"
 ---
 
-# 안녕하세요!
-여기는 Kunlaboranto의 블로그입니다.
+여기는 GitHub Pages 블로그의 메인 페이지입니다.

@@ -9,8 +9,8 @@
   baseurl: "/kunlaboranto"
   url: "https://isuha85.github.io"
 
-plugins:
-  - jekyll-remote-theme
+# plugins:
+#   - jekyll-remote-theme
 
 #remote_theme: pages-themes/hacker
 
@@ -19,8 +19,8 @@ plugins:
 #    ex: cayman, minima, kacker, jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-merlot, ..
 ####################
 # (X) theme: hacker 
-# theme: minima
-  theme: jekyll-theme-minimal
+  theme: minima
+# theme: jekyll-theme-minimal
 
 ####################
 # ETC
