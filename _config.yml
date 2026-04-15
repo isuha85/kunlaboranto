@@ -12,20 +12,25 @@
 plugins:
   - jekyll-remote-theme
 
-# markdown: kramdown
+#remote_theme: pages-themes/hacker
 
 ####################
 # theme: theme-name 
 #    ex: cayman, minima, kacker, jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-merlot, ..
 ####################
-# theme: jekyll-theme-minimal
-# theme: minima
 # (X) theme: hacker 
-
-remote_theme: pages-themes/hacker
+  theme: minima
+# theme: jekyll-theme-minimal
 
 ####################
-# theme: minima
+# ETC
 ####################
+  # minima 테마 등에서만 사용됨
   author: okseop7 @ gmail.com
+
+
+####################
+# NOTYET
+####################
+# markdown: kramdown
 
