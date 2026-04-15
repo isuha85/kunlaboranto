@@ -1,6 +1,7 @@
 ---
 layout: default
 title: index.md
+permalink: /_/
 ---
 
 <ul>

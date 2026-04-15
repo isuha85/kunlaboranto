@@ -1,6 +1,7 @@
 ---
 layout: default
 title: list.md
+permalink: /list/
 ---
 
 <ul>
