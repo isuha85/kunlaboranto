@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: index.md
 permalink: /list/
 ---
-
-<!-- 여기는 Kunlaboranto의 블로그입니다. -->
 
 <ul>
   {% for post in site.posts %}
