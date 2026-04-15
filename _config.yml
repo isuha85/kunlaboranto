@@ -11,8 +11,6 @@
 # author: okseop7
 
 # markdown: kramdown
-# theme: minima
-
-
-theme: jekyll-theme-minimal  # 테마 이름 (예: jekyll-theme-slate, jekyll-theme-merlot 등)
+  theme: minima
+# theme: jekyll-theme-minimal  # 테마 이름 (예: jekyll-theme-slate, jekyll-theme-merlot 등)
 
