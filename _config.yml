@@ -41,7 +41,8 @@
     - Gemfile.lock
     - node_modules
     - private/
-    - docs/
+    - txt/
+#   - docs/
 
 
 ####################
