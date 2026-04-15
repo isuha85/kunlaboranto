@@ -1,0 +1,36 @@
+
+####################
+# 사이트 설정
+####################
+
+  title: O.K.T                          # 브라우저 탭과 헤더에 표시될 이름
+  description: ver 0.1 ( 2026-04-15 )   # 사이트 설명
+
+  baseurl: "/kunlaboranto"
+  url: "https://isuha85.github.io"
+
+# plugins:
+#   - jekyll-remote-theme
+
+#remote_theme: pages-themes/hacker
+
+####################
+# theme: theme-name 
+#    ex: cayman, minima, kacker, jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-merlot, ..
+####################
+# (X) theme: hacker 
+  theme: minima
+# theme: jekyll-theme-minimal
+
+####################
+# ETC
+####################
+  # minima 테마 등에서만 사용됨
+  author: okseop7 @ gmail.com
+
+
+####################
+# NOTYET
+####################
+# markdown: kramdown
+
