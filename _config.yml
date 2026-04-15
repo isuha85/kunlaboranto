@@ -1,0 +1,5 @@
+title: Kunlaboranto Blog
+description: 나의 첫 개발 블로그
+theme: jekyll-theme-minimal  # 테마 이름 (예: jekyll-theme-slate, jekyll-theme-merlot 등)
+baseurl: "/kunlaboranto"
+url: "https://isuha85.github.io"
