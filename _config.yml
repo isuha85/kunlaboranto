@@ -22,10 +22,13 @@
   theme: minima
 # theme: jekyll-theme-minimal
 
+
 ####################
-# ETC
+# ONLY - minima
+#
+# *.md:
+#   layout: home
 ####################
-  # minima 테마 등에서만 사용됨
   author: okseop7 @ gmail.com
 
 
