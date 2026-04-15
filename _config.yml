@@ -28,6 +28,10 @@
 #
 # *.md:
 #   layout: home
+#   permalink: /list/ # <url>/<baseurl>/list/ 로 페이지의 접속주소를 강제고정 ( 기본공지 또는 about 페이지에서 유용 )
+#
+# note:
+#   - Minima 테마는 기본적으로 파일 상단에 title이 있으면 자동으로 메뉴에 추가합니다.
 ####################
   author: okseop7 @ gmail.com
 
@@ -44,10 +48,4 @@
 # NOTYET
 ####################
 # markdown: kramdown
-
-
-title: My Blog
-description: GitHub Pages 블로그
-theme: minima
-
 
