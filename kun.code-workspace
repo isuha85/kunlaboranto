@@ -4,6 +4,9 @@
 			"path": "."
 		},
 		{
+			"path": "../../MinTool4PG"
+		},
+		{
 			"path": "../../DBA"
 		}
 	],
