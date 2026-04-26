@@ -1,4 +1,3 @@
-2026-01-04-WINTERM-setlocal.md
 ---
 layout: default
 title: 2026-01-03-WINTERM-setlocal.md
